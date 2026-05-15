@@ -7,7 +7,7 @@ Wong, D. (2026). BHSdigits [Data set created for Computing and Data Sciences, BH
 ```bibtex
 @misc{wong2026bhsdigits,
   author       = {Derek Wong},
-  title        = {BHSdigits},
+  title        = {{BHS}digits},
   year         = {2026},
   month        = May,
   howpublished = {\url{https://github.com/jedediyah/data/BHSdigits}},
