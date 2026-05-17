@@ -1,6 +1,8 @@
 # BHSdigits
 
-A collection of handwritten digits, scanned as PDFs. Files are scanned at 600 DPI.  
+A collection of handwritten digits, scanned as PDFs. Files are scanned at 600 DPI. Each page has been filled out by one individual.
+
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/fa167508-27c6-4dd5-a108-44ed7c219ef8" />
 
 | File            | Size (MB)  | Description                                   |
 | :-------------- | :----------| --------------------------------------------- |
