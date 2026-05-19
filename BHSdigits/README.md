@@ -1,6 +1,6 @@
 # BHSdigits
 
-A collection of handwritten digits, scanned as PDFs. Files are scanned at 600 DPI. Each page has been filled out by one individual.
+A collection of handwritten digits, scanned as PDFs at 600 DPI. Each page corresponds to an individual.
 
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/fa167508-27c6-4dd5-a108-44ed7c219ef8" />
 
@@ -21,7 +21,7 @@ Wong, D. (2026). BHSdigits [Data set created for Computing and Data Sciences, BH
   author       = {Derek Wong},
   title        = {{BHS}digits},
   year         = {2026},
-  month        = May,
+  month        = {May},
   howpublished = {\url{https://github.com/jedediyah/data/BHSdigits}},
   note         = {Dataset created for the Computing and Data Sciences course at BHS}
 }
